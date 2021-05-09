@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I help individuals, teams and companies to thrive within today’s (business) complexity.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Often, my experience of 10+ years working with (client) teams as a sytemic designer helps us to navigate from possiblity to reality. Sometimes, my shapeless academic belt of computer science, philosophy, psychology, and archaeology is what really makes the difference.
+
+All of it fuelling my greatest passion: to support others on their way towards future relevance.
+
+Currently, I'm the Global Head of Design at Futurice, an innovation consultancy, where I'm privileged to lead wonderful teams who co-create resilient futures.
