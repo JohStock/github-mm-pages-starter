@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Johannes Stock"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/johannes-stock-bio-photo.jpg"
   bio    : "Designer, Leader & Complexity Thinker"
   links:
     - label: "Website"
